@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "807210140486",
+    "firebase_url": "https://voicerecognitioncalculator.firebaseio.com",
+    "project_id": "voicerecognitioncalculator",
+    "storage_bucket": "voicerecognitioncalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807210140486:android:3691d29ff7f90fb0",
+        "android_client_info": {
+          "package_name": "com.mad.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807210140486-6gd21ot2qqigj8orrg7k91ba7qeck29j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wGdn7ewdwVv6gFTtp6sP4F492XPQKEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
